@@ -1,4 +1,4 @@
-# 🧠 mac-brain
+# 🧠 Artificial-Brain
 
 A rule-based terminal assistant with a free Gemini AI fallback.
 Rules run first (instant, offline); anything unmatched goes to the AI.
